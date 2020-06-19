@@ -6,3 +6,5 @@ Groot is a fictional character in the films Guardians of the Galaxy. He represen
 * Narrow-minded
 * Tall
 * Strong
+## Quotes
+> Groot
